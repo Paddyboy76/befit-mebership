@@ -1,1 +1,1 @@
-# befit-mebership
+# befit-membership
